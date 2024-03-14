@@ -1,6 +1,6 @@
-# Jisho API Documentation
+# Sample Japanese Dictionary API Documentation
 
-Jisho API is a simple RESTful API for sample of Japanese Dictionary.
+Tish is a simple RESTful API for sample of Japanese Dictionary.
 
 ## Table of Contents
 
