@@ -1,0 +1,6033 @@
+[
+    {
+        "slug": "亜",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "亜",
+                "reading": "あ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "sub-",
+                    "second-rate",
+                    "inferior"
+                ],
+                "parts_of_speech": [
+                    "Prefix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "-ous (indicating a low oxidation state)",
+                    "-ite"
+                ],
+                "parts_of_speech": [
+                    "Prefix"
+                ],
+                "links": [],
+                "tags": [
+                    "Chemistry"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Asia"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "亜細亜 アジア"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Argentina"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "亜爾然丁 アルゼンチン"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Arabia"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "亜剌比亜 アラビア"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "America",
+                    "American person"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation",
+                    "Obsolete term"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "亜米利加 アメリカ",
+                    "米 べい"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "used in Meiji era, now replaced by 米"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "彼",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "彼",
+                "reading": "あれ"
+            },
+            {
+                "word": "彼れ",
+                "reading": "あれ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "that",
+                    "that thing"
+                ],
+                "parts_of_speech": [
+                    "Pronoun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "これ",
+                    "それ",
+                    "どれ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "indicating something distant from both speaker and listener (in space, time or psychologically), or something understood without naming it directly"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "that person"
+                ],
+                "parts_of_speech": [
+                    "Pronoun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "used to refer to one's equals or inferiors"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "then",
+                    "that time"
+                ],
+                "parts_of_speech": [
+                    "Pronoun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "that place (over there)"
+                ],
+                "parts_of_speech": [
+                    "Pronoun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "down there (i.e. one's genitals)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial",
+                    "Euphemistic",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "oft. written as アレ"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "period",
+                    "menses"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial",
+                    "Euphemistic",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "oft. written as アレ"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "阿",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "阿",
+                "reading": "あ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "first Sanskrit alphabet letter"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "阿字 あじ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Africa"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "阿弗利加 アフリカ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Awa (old province of Japan)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "prefixed to names to show intimacy"
+                ],
+                "parts_of_speech": [
+                    "Prefix"
+                ],
+                "links": [],
+                "tags": [
+                    "Familiar language",
+                    "Archaic"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "あっ",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "reading": "あっ"
+            },
+            {
+                "reading": "アッ"
+            },
+            {
+                "reading": "アっ"
+            },
+            {
+                "reading": "あ"
+            },
+            {
+                "reading": "ア"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "ah",
+                    "oh"
+                ],
+                "parts_of_speech": [],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "expression of surprise, recollection, etc."
+                ]
+            },
+            {
+                "english_definitions": [
+                    "hey!"
+                ],
+                "parts_of_speech": [],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "used to get someone's attention"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "A (kana)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “A (kana)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/A_(kana)?oldid=488921470"
+                    },
+                    {
+                        "text": "Read “あ” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/あ?oldid=42599823"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/A_(kana)"
+        }
+    },
+    {
+        "slug": "赤",
+        "is_common": true,
+        "tags": [
+            "wanikani4"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "赤",
+                "reading": "あか"
+            },
+            {
+                "word": "紅",
+                "reading": "あか"
+            },
+            {
+                "word": "朱",
+                "reading": "あか"
+            },
+            {
+                "word": "緋",
+                "reading": "あか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "red",
+                    "crimson",
+                    "scarlet"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red-containing colour (e.g. brown, pink, orange)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Red (i.e. communist)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "often written as アカ"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "red light (traffic)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "赤信号"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red ink (i.e. in finance or proof-reading)",
+                    "(in) the red"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "赤字",
+                    "赤字"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "complete",
+                    "total",
+                    "perfect",
+                    "obvious"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "赤の他人"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "copper"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [
+                    "赤"
+                ],
+                "see_also": [
+                    "銅 あかがね"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red 5-point card"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Hanafuda",
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "あかたん"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Aka"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Red"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Red” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Red?oldid=495022741"
+                    },
+                    {
+                        "text": "Read “赤” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/赤?oldid=42762386"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": true,
+            "dbpedia": "http://dbpedia.org/resource/Red"
+        }
+    },
+    {
+        "slug": "雨",
+        "is_common": true,
+        "tags": [
+            "wanikani5"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "雨",
+                "reading": "あめ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "rain"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "rainy day",
+                    "rainy weather"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "the November suit (in hanafuda)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "花札"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Rain"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Rain” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Rain?oldid=493013115"
+                    },
+                    {
+                        "text": "Read “雨” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/雨?oldid=42665243"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Rain"
+        }
+    },
+    {
+        "slug": "上げる",
+        "is_common": true,
+        "tags": [
+            "wanikani1",
+            "wanikani23",
+            "wanikani42"
+        ],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n2",
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "上げる",
+                "reading": "あげる"
+            },
+            {
+                "word": "挙げる",
+                "reading": "あげる"
+            },
+            {
+                "word": "揚げる",
+                "reading": "あげる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to raise",
+                    "to elevate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "手を挙げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to do up (one's hair)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "髪を上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to fly (a kite, etc.)",
+                    "to launch (fireworks, etc.)",
+                    "to surface (a submarine, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to land (a boat)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to deep-fry"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "揚げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to show someone (into a room)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to give"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Polite (teineigo) language",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [
+                    "上げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to send someone (away)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to enrol (one's child in school)",
+                    "to enroll"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to increase (price, quality, status, etc.)",
+                    "to develop (talent, skill)",
+                    "to improve"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to make (a loud sound)",
+                    "to raise (one's voice)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "声を上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to earn (something desirable)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to praise"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to give (an example, etc.)",
+                    "to cite"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to summon up (all of one's energy, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to arrest"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "挙げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to nominate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "挙げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to summon (for geishas, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [
+                    "揚げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to bear (a child)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to conduct (a ceremony, esp. a wedding)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "(of the tide) to come in"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to vomit"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to do for (the sake of someone else)"
+                ],
+                "parts_of_speech": [
+                    "Auxiliary verb",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone",
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -te form of a verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to complete ..."
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "作り上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to humbly do ..."
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "申し上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a humble verb to increase the level of humility"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Deep frying"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Deep frying” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Deep_frying?oldid=489981393"
+                    },
+                    {
+                        "text": "Read “揚げる” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/揚げる?oldid=42769777"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Deep_frying"
+        }
+    },
+    {
+        "slug": "足",
+        "is_common": true,
+        "tags": [
+            "wanikani4",
+            "wanikani45"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "足",
+                "reading": "あし"
+            },
+            {
+                "word": "脚",
+                "reading": "あし"
+            },
+            {
+                "word": "肢",
+                "reading": "あし"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "foot",
+                    "paw",
+                    "arm (of an octopus, squid, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 足"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "leg"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "esp. 脚, 肢"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "gait"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "pace"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "lower radical of a kanji"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 脚"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "means of transportation",
+                    "(one's) ride"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "足"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "money",
+                    "coin"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "お足"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu お〜"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Foot"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Foot” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Foot?oldid=493525811"
+                    },
+                    {
+                        "text": "Read “足” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/足?oldid=42590963"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Foot"
+        }
+    },
+    {
+        "slug": "朝",
+        "is_common": true,
+        "tags": [
+            "wanikani8"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "朝",
+                "reading": "あさ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "morning"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "breakfast"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Morning"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Morning” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Morning?oldid=490829429"
+                    },
+                    {
+                        "text": "Read “朝” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/朝?oldid=42375382"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Morning"
+        }
+    },
+    {
+        "slug": "青",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "青",
+                "reading": "あお"
+            },
+            {
+                "word": "蒼",
+                "reading": "あお"
+            },
+            {
+                "word": "碧",
+                "reading": "あお"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "blue",
+                    "azure"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "green"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "mostly in compound words and in ref. to fruits, plants and traffic lights"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "green light (traffic)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "青信号"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "black (horse coat color)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "青毛"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "blue 5-point card"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Hanafuda",
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "あおたん"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "immature",
+                    "unripe",
+                    "young"
+                ],
+                "parts_of_speech": [
+                    "Prefix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Blue"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Blue” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Blue?oldid=492253295"
+                    },
+                    {
+                        "text": "Read “青” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/青?oldid=42589924"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Blue"
+        }
+    },
+    {
+        "slug": "乙",
+        "is_common": true,
+        "tags": [
+            "wanikani57"
+        ],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "乙",
+                "reading": "おつ"
+            },
+            {
+                "reading": "オツ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "(the) second (party, rank, etc.)",
+                    "B (grade)",
+                    "the latter"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "甲"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "stylish",
+                    "chic",
+                    "smart",
+                    "witty",
+                    "tasty"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "strange",
+                    "quaint",
+                    "queer"
+                ],
+                "parts_of_speech": [
+                    "Na-adjective (keiyodoshi)"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "thank you",
+                    "good job"
+                ],
+                "parts_of_speech": [
+                    "Expressions (phrases, clauses, etc.)"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation",
+                    "Slang"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "お疲れ様"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "see you",
+                    "goodbye",
+                    "goodnight"
+                ],
+                "parts_of_speech": [
+                    "Expressions (phrases, clauses, etc.)"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation",
+                    "Slang"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "お疲れ様"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "ベル",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n4"
+        ],
+        "japanese": [
+            {
+                "reading": "ベル"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "bell"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "やら",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "reading": "やら"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "what with A and B",
+                    "such things as A and B",
+                    "A and B and so on",
+                    "A and B and the like"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "as ＡやらＢやら..."
+                ]
+            },
+            {
+                "english_definitions": [
+                    "denotes uncertainty"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "とやら"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "良",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "良",
+                "reading": "りょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "good (quality, condition, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Good (grade)",
+                    "B"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "on a 優, 良, 可 scale"
+                ]
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "も",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "reading": "も"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "too",
+                    "also",
+                    "in addition",
+                    "as well",
+                    "(not) either (in a negative sentence)"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "both A and B",
+                    "A as well as B",
+                    "neither A nor B (in a negative sentence)"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "as ＡもＢも"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "even",
+                    "as much as",
+                    "as many as",
+                    "as far as",
+                    "as long as",
+                    "no less than",
+                    "no fewer than"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "used for emphasis or to express absence of doubt regarding a quantity, etc."
+                ]
+            },
+            {
+                "english_definitions": [
+                    "even if",
+                    "even though",
+                    "although",
+                    "in spite of"
+                ],
+                "parts_of_speech": [
+                    "Particle"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "often as 〜ても, 〜でも, 〜とも, etc."
+                ]
+            },
+            {
+                "english_definitions": [
+                    "further",
+                    "more",
+                    "again",
+                    "another",
+                    "the other"
+                ],
+                "parts_of_speech": [
+                    "Adverb (fukushi)"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "もう"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Mo (kana)"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Mo (kana)” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Mo_(kana)?oldid=488719101"
+                    },
+                    {
+                        "text": "Read “も” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/も?oldid=41597081"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Mo_(kana)"
+        }
+    },
+    {
+        "slug": "Ｂ",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "Ｂ",
+                "reading": "ビー"
+            },
+            {
+                "word": "Ｂ",
+                "reading": "ベー"
+            },
+            {
+                "word": "ｂ",
+                "reading": "ビー"
+            },
+            {
+                "word": "ｂ",
+                "reading": "ベー"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "B",
+                    "b"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "甲乙",
+        "is_common": false,
+        "tags": [
+            "wanikani57"
+        ],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "甲乙",
+                "reading": "こうおつ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "first and second",
+                    "A and B"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "superiority and (or) inferiority",
+                    "distinction (in quality)",
+                    "discernment",
+                    "discrimination"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "赤",
+        "is_common": true,
+        "tags": [
+            "wanikani4"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "赤",
+                "reading": "あか"
+            },
+            {
+                "word": "紅",
+                "reading": "あか"
+            },
+            {
+                "word": "朱",
+                "reading": "あか"
+            },
+            {
+                "word": "緋",
+                "reading": "あか"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "red",
+                    "crimson",
+                    "scarlet"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red-containing colour (e.g. brown, pink, orange)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Red (i.e. communist)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "often written as アカ"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "red light (traffic)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "赤信号"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red ink (i.e. in finance or proof-reading)",
+                    "(in) the red"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "赤字",
+                    "赤字"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "complete",
+                    "total",
+                    "perfect",
+                    "obvious"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "赤の他人"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "copper"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [
+                    "赤"
+                ],
+                "see_also": [
+                    "銅 あかがね"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "red 5-point card"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Hanafuda",
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "あかたん"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Aka"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Red"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Red” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Red?oldid=495022741"
+                    },
+                    {
+                        "text": "Read “赤” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/赤?oldid=42762386"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": true,
+            "dbpedia": "http://dbpedia.org/resource/Red"
+        }
+    },
+    {
+        "slug": "仕事",
+        "is_common": true,
+        "tags": [
+            "wanikani11"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "仕事",
+                "reading": "しごと"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "work",
+                    "job",
+                    "labor",
+                    "labour",
+                    "business",
+                    "task",
+                    "assignment",
+                    "occupation",
+                    "employment"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "work"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Physics"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Work"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Work” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Work?oldid=493759211"
+                    },
+                    {
+                        "text": "Read “仕事” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/仕事?oldid=39647093"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Work"
+        }
+    },
+    {
+        "slug": "水",
+        "is_common": true,
+        "tags": [
+            "wanikani2"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "水",
+                "reading": "みず"
+            },
+            {
+                "word": "水",
+                "reading": "み"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "water (esp. cool, fresh water, e.g. drinking water)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "湯 ゆ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "み is generally used in compounds"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "fluid (esp. in an animal tissue)",
+                    "liquid"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "flood",
+                    "floodwaters"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "water offered to wrestlers just prior to a bout"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Sumo"
+                ],
+                "restrictions": [
+                    "みず"
+                ],
+                "see_also": [
+                    "力水"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "break granted to wrestlers engaged in a prolonged bout"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Sumo"
+                ],
+                "restrictions": [
+                    "みず"
+                ],
+                "see_also": [
+                    "水入り"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Water"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Water” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Water?oldid=494683228"
+                    },
+                    {
+                        "text": "Read “水” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/水?oldid=42737804"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Water"
+        }
+    },
+    {
+        "slug": "病気",
+        "is_common": true,
+        "tags": [
+            "wanikani10"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "病気",
+                "reading": "びょうき"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "illness (usu. excluding minor ailments, e.g. common cold)",
+                    "disease",
+                    "sickness"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "bad habit",
+                    "bad behaviour",
+                    "weakness",
+                    "failing"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "crazy",
+                    "insane",
+                    "disturbed",
+                    "sick in the head"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [
+                    "Colloquial"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Disease"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Disease” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Disease?oldid=494765883"
+                    },
+                    {
+                        "text": "Read “病気” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/病気?oldid=42632754"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Disease"
+        }
+    },
+    {
+        "slug": "上げる",
+        "is_common": true,
+        "tags": [
+            "wanikani1",
+            "wanikani23",
+            "wanikani42"
+        ],
+        "jlpt": [
+            "jlpt-n4",
+            "jlpt-n2",
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "上げる",
+                "reading": "あげる"
+            },
+            {
+                "word": "挙げる",
+                "reading": "あげる"
+            },
+            {
+                "word": "揚げる",
+                "reading": "あげる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to raise",
+                    "to elevate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "手を挙げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to do up (one's hair)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "髪を上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to fly (a kite, etc.)",
+                    "to launch (fireworks, etc.)",
+                    "to surface (a submarine, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to land (a boat)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to deep-fry"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "揚げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to show someone (into a room)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to give"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Polite (teineigo) language",
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [
+                    "上げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to send someone (away)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to enrol (one's child in school)",
+                    "to enroll"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to increase (price, quality, status, etc.)",
+                    "to develop (talent, skill)",
+                    "to improve"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to make (a loud sound)",
+                    "to raise (one's voice)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "声を上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to earn (something desirable)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to praise"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to give (an example, etc.)",
+                    "to cite"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to summon up (all of one's energy, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to arrest"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "挙げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to nominate"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "挙げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to summon (for geishas, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [
+                    "揚げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "上げる"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to bear (a child)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to conduct (a ceremony, esp. a wedding)"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. 挙げる"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "(of the tide) to come in"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to vomit"
+                ],
+                "parts_of_speech": [
+                    "Ichidan verb",
+                    "Intransitive verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to do for (the sake of someone else)"
+                ],
+                "parts_of_speech": [
+                    "Auxiliary verb",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone",
+                    "Polite (teineigo) language"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -te form of a verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to complete ..."
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "作り上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to humbly do ..."
+                ],
+                "parts_of_speech": [
+                    "Suffix",
+                    "Ichidan verb"
+                ],
+                "links": [],
+                "tags": [
+                    "Humble (kenjougo) language"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "申し上げる"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after the -masu stem of a humble verb to increase the level of humility"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Deep frying"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Deep frying” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Deep_frying?oldid=489981393"
+                    },
+                    {
+                        "text": "Read “揚げる” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/揚げる?oldid=42769777"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Deep_frying"
+        }
+    },
+    {
+        "slug": "目",
+        "is_common": true,
+        "tags": [
+            "wanikani2"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "目",
+                "reading": "め"
+            },
+            {
+                "word": "眼",
+                "reading": "め"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "eye",
+                    "eyeball"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "eyesight",
+                    "sight",
+                    "vision"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "目が見える"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "look",
+                    "stare",
+                    "gaze",
+                    "glance"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "notice",
+                    "attention",
+                    "observation",
+                    "eyes (of the world, public, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "an experience"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "viewpoint"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "discrimination",
+                    "discernment",
+                    "judgement",
+                    "eye (e.g. for quality)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "(an) appearance"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "chance (of success)",
+                    "possibility (of a good result)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "目がない"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "spacing (between crossed strands of a net, mesh, etc.)",
+                    "opening",
+                    "stitch",
+                    "texture",
+                    "weave"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "編み目"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "grain (of wood, paper)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "eye (of a storm, needle, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "intersection (on a go board)",
+                    "square (on a chessboard)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "dot (on a dice)",
+                    "pip",
+                    "rolled number"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "graduation",
+                    "division (of a scale)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "tooth (of a saw, comb, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "ordinal number suffix"
+                ],
+                "parts_of_speech": [
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "somewhat",
+                    "-ish"
+                ],
+                "parts_of_speech": [
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "大きめ"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after adjective stem"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "point (e.g. of change)"
+                ],
+                "parts_of_speech": [
+                    "Suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "変わり目",
+                    "折れ目"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "after -masu stem of verb"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Eye"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Eye” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Eye?oldid=495348627"
+                    },
+                    {
+                        "text": "Read “目” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/目?oldid=42731787"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Eye"
+        }
+    },
+    {
+        "slug": "走る",
+        "is_common": true,
+        "tags": [
+            "wanikani5"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "走る",
+                "reading": "はしる"
+            },
+            {
+                "word": "奔る",
+                "reading": "はしる"
+            },
+            {
+                "word": "疾る",
+                "reading": "はしる"
+            },
+            {
+                "word": "趨る",
+                "reading": "はしる"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to run"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to run (of a vehicle)",
+                    "to drive",
+                    "to travel",
+                    "to move",
+                    "to sail"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to rush (to)",
+                    "to dash",
+                    "to race"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to retreat",
+                    "to flee",
+                    "to defect (to)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to run away",
+                    "to abscond",
+                    "to elope"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "occ. 奔る"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to flash (of lightning)",
+                    "to streak",
+                    "to shoot (through; e.g. of pain)",
+                    "to run (through)",
+                    "to flare",
+                    "to flit (e.g. across one's face)",
+                    "to spread quickly (of news, shock, etc.)"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "to go (e.g. bad, to extremes)",
+                    "to become",
+                    "to turn",
+                    "to take to (e.g. crime)",
+                    "to get carried away by (e.g. one's emotions)",
+                    "to get involved in",
+                    "to get wrapped up in"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "as 〜に走る; occ. 趨る"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "to run (through; of a road, street, etc.)",
+                    "to extend (e.g. of a mountain range)",
+                    "to stretch",
+                    "to lie"
+                ],
+                "parts_of_speech": [
+                    "Godan verb with 'ru' ending",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Running"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Running” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Running?oldid=493695790"
+                    },
+                    {
+                        "text": "Read “走る” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/走る?oldid=41844115"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Running"
+        }
+    },
+    {
+        "slug": "道",
+        "is_common": true,
+        "tags": [
+            "wanikani8"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "道",
+                "reading": "みち"
+            },
+            {
+                "word": "途",
+                "reading": "みち"
+            },
+            {
+                "word": "路",
+                "reading": "みち"
+            },
+            {
+                "word": "径",
+                "reading": "みち"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "road",
+                    "path",
+                    "street",
+                    "lane",
+                    "passage"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "route",
+                    "way"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "distance",
+                    "journey"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "road (e.g. to victory)",
+                    "course"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "way (of living, proper conduct, etc.)",
+                    "moral principles"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "teachings (esp. Confucian or Buddhist)",
+                    "dogma"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "field (e.g. of medicine)",
+                    "subject",
+                    "speciality"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "means",
+                    "way",
+                    "method"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Diameter"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Diameter” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Diameter?oldid=492219575"
+                    },
+                    {
+                        "text": "Read “径” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/径?oldid=42206880"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Diameter"
+        }
+    },
+    {
+        "slug": "木",
+        "is_common": true,
+        "tags": [
+            "wanikani2"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "木",
+                "reading": "き"
+            },
+            {
+                "word": "樹",
+                "reading": "き"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "tree",
+                    "shrub",
+                    "bush"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "wood",
+                    "timber"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "木"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "wooden clappers (signalling the beginning or end of a performance)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [
+                    "木"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. written as 柝"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Tree"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Tree” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Tree?oldid=495521602"
+                    },
+                    {
+                        "text": "Read “木” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/木?oldid=42755889"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Tree"
+        }
+    },
+    {
+        "slug": "大学",
+        "is_common": true,
+        "tags": [
+            "wanikani5"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "大学",
+                "reading": "だいがく"
+            },
+            {
+                "word": "大學",
+                "reading": "だいがく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "university",
+                    "college"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Historical term",
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "大学寮"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "the Great Learning (one of the Four Books)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "四書"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "University"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “University” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/University?oldid=494515456"
+                    },
+                    {
+                        "text": "Read “大学” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/大学?oldid=42271761"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/University"
+        }
+    },
+    {
+        "slug": "花",
+        "is_common": true,
+        "tags": [
+            "wanikani4"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "花",
+                "reading": "はな"
+            },
+            {
+                "word": "華",
+                "reading": "はな"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "flower",
+                    "blossom",
+                    "bloom",
+                    "petal"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "cherry blossom"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "beauty"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "blooming (esp. of cherry blossoms)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "ikebana"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "生け花"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "hanafuda"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Hanafuda",
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "花札"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "(the) best"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "言わぬが花"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "usu. as 〜が花"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "glorious",
+                    "lovely"
+                ],
+                "parts_of_speech": [
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Flower"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Flower” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Flower?oldid=494173951"
+                    },
+                    {
+                        "text": "Read “花” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/花?oldid=42568586"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Flower"
+        }
+    },
+    {
+        "slug": "猫",
+        "is_common": true,
+        "tags": [
+            "wanikani15"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "猫",
+                "reading": "ねこ"
+            },
+            {
+                "reading": "ネコ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "cat (esp. the domestic cat, Felis catus)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "shamisen"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "geisha"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "wheelbarrow"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "猫車"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "clay bed-warmer"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "猫火鉢"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "bottom (submissive partner of a homosexual relationship)"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Usually written using kana alone",
+                    "Slang"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [
+                    "タチ"
+                ],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Cat"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Cat” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Cat?oldid=495476307"
+                    },
+                    {
+                        "text": "Read “ネコ” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/ネコ?oldid=42719522"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Cat"
+        }
+    },
+    {
+        "slug": "自転車",
+        "is_common": true,
+        "tags": [
+            "wanikani10"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "自転車",
+                "reading": "じてんしゃ"
+            },
+            {
+                "word": "自転車",
+                "reading": "じでんしゃ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "bicycle",
+                    "bike"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Bicycle"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Bicycle” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Bicycle?oldid=495469716"
+                    },
+                    {
+                        "text": "Read “自転車” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/自転車?oldid=42674974"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Bicycle"
+        }
+    },
+    {
+        "slug": "恋愛",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "恋愛",
+                "reading": "れんあい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love",
+                    "love-making",
+                    "passion",
+                    "emotion",
+                    "affections"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Falling in love"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Falling in love” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Falling_in_love?oldid=490459291"
+                    },
+                    {
+                        "text": "Read “恋愛” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/恋愛?oldid=42298389"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Falling_in_love"
+        }
+    },
+    {
+        "slug": "愛",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "愛",
+                "reading": "あい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love",
+                    "affection",
+                    "care"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun, used as a suffix"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "愛する"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "attachment",
+                    "craving",
+                    "desire"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Buddhism"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "agape"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Christianity"
+                ],
+                "restrictions": [],
+                "see_also": [
+                    "アガペー"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Ireland"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Abbreviation"
+                ],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Love"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Love” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Love?oldid=494445526"
+                    },
+                    {
+                        "text": "Read “愛” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/愛?oldid=42742799"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Love"
+        }
+    },
+    {
+        "slug": "愛情",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "愛情",
+                "reading": "あいじょう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love",
+                    "affection"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Noun which may take the genitive case particle 'no'"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "愛する",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "愛する",
+                "reading": "あいする"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to love"
+                ],
+                "parts_of_speech": [
+                    "Suru verb - special class",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "恋",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n3"
+        ],
+        "japanese": [
+            {
+                "word": "恋",
+                "reading": "こい"
+            },
+            {
+                "word": "戀",
+                "reading": "こい"
+            },
+            {
+                "word": "孤悲",
+                "reading": "こい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "(romantic) love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "愛好",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "愛好",
+                "reading": "あいこう"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love",
+                    "adoration"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "恋する",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "恋する",
+                "reading": "こいする"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "to fall in love (with)",
+                    "to love"
+                ],
+                "parts_of_speech": [
+                    "Suru verb - included",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "失恋",
+        "is_common": true,
+        "tags": [
+            "wanikani17"
+        ],
+        "jlpt": [
+            "jlpt-n2"
+        ],
+        "japanese": [
+            {
+                "word": "失恋",
+                "reading": "しつれん"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "disappointed love",
+                    "broken heart",
+                    "unrequited love",
+                    "being lovelorn"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Broken heart"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Broken heart” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Broken_heart?oldid=491408866"
+                    },
+                    {
+                        "text": "Read “失恋” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/失恋?oldid=42721981"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Broken_heart"
+        }
+    },
+    {
+        "slug": "片思い",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "片思い",
+                "reading": "かたおもい"
+            },
+            {
+                "word": "片想い",
+                "reading": "かたおもい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "unrequited love",
+                    "one-sided love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Unrequited love"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Unrequited love” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Unrequited_love?oldid=493989265"
+                    },
+                    {
+                        "text": "Read “片想い” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/片想い?oldid=42234317"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Unrequited_love"
+        }
+    },
+    {
+        "slug": "愛着",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "愛着",
+                "reading": "あいちゃく"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "attachment (esp. to things)",
+                    "love",
+                    "affection",
+                    "fondness"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "慈愛",
+        "is_common": false,
+        "tags": [
+            "wanikani51"
+        ],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "慈愛",
+                "reading": "じあい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "affection (esp. parental)",
+                    "love",
+                    "fondness"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "恋心",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "恋心",
+                "reading": "こいごころ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "(feelings of) love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "情愛",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "情愛",
+                "reading": "じょうあい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "affection",
+                    "love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "情け",
+        "is_common": true,
+        "tags": [
+            "wanikani13"
+        ],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "情け",
+                "reading": "なさけ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "pity",
+                    "sympathy",
+                    "compassion",
+                    "mercy"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "affection",
+                    "love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "恋慕",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "恋慕",
+                "reading": "れんぼ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love",
+                    "attachment",
+                    "tender emotions",
+                    "falling in love"
+                ],
+                "parts_of_speech": [
+                    "Noun",
+                    "Suru verb",
+                    "Transitive verb",
+                    "Intransitive verb"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "悲しみ",
+        "is_common": true,
+        "tags": [
+            "wanikani19"
+        ],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "悲しみ",
+                "reading": "かなしみ"
+            },
+            {
+                "word": "哀しみ",
+                "reading": "かなしみ"
+            },
+            {
+                "word": "愛しみ",
+                "reading": "かなしみ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "sadness",
+                    "sorrow",
+                    "grief"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "affection",
+                    "love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [
+                    "Archaic"
+                ],
+                "restrictions": [
+                    "愛しみ"
+                ],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Sadness"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Sadness” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Sadness?oldid=495071912"
+                    },
+                    {
+                        "text": "Read “悲しみ” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/悲しみ?oldid=42278451"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Sadness"
+        }
+    },
+    {
+        "slug": "好意",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [
+            "jlpt-n1"
+        ],
+        "japanese": [
+            {
+                "word": "好意",
+                "reading": "こうい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "kindness",
+                    "favor",
+                    "favour",
+                    "friendliness"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "goodwill",
+                    "affection",
+                    "liking (for someone)",
+                    "love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": false
+        }
+    },
+    {
+        "slug": "初恋",
+        "is_common": true,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "word": "初恋",
+                "reading": "はつこい"
+            },
+            {
+                "word": "はつ恋",
+                "reading": "はつこい"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "first love",
+                    "puppy love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "First Love"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “First Love” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/First_Love?oldid=487529357"
+                    },
+                    {
+                        "text": "Read “初恋” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/初恋?oldid=42100057"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/First_Love"
+        }
+    },
+    {
+        "slug": "アムール",
+        "is_common": false,
+        "tags": [],
+        "jlpt": [],
+        "japanese": [
+            {
+                "reading": "アムール"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "love"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [
+                    {
+                        "language": "French",
+                        "word": "“amour”"
+                    }
+                ],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Amur (Russia)"
+                ],
+                "parts_of_speech": [
+                    "Place"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "Amur"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Amur” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Amur?oldid=468952018"
+                    },
+                    {
+                        "text": "Read “アムール” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/アムール?oldid=38235322"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": true,
+            "dbpedia": "http://dbpedia.org/resource/Amur"
+        }
+    },
+    {
+        "slug": "色",
+        "is_common": true,
+        "tags": [
+            "wanikani5"
+        ],
+        "jlpt": [
+            "jlpt-n5"
+        ],
+        "japanese": [
+            {
+                "word": "色",
+                "reading": "いろ"
+            }
+        ],
+        "senses": [
+            {
+                "english_definitions": [
+                    "colour",
+                    "color",
+                    "hue",
+                    "tint",
+                    "tinge",
+                    "shade"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "complexion",
+                    "skin colour",
+                    "skin color"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "look (on one's face)",
+                    "expression"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "appearance",
+                    "air",
+                    "feeling"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "personality",
+                    "character"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "tone (of one's voice, etc.)",
+                    "tune",
+                    "sound",
+                    "ring"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "love",
+                    "lust",
+                    "sensuality",
+                    "love affair"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [
+                    "色仕掛け"
+                ],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "lover",
+                    "paramour"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "beauty",
+                    "sexiness",
+                    "physical appeal"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": []
+            },
+            {
+                "english_definitions": [
+                    "kind",
+                    "type",
+                    "variety"
+                ],
+                "parts_of_speech": [
+                    "Noun"
+                ],
+                "links": [],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [
+                    "also written 種"
+                ]
+            },
+            {
+                "english_definitions": [
+                    "Color"
+                ],
+                "parts_of_speech": [
+                    "Wikipedia definition"
+                ],
+                "links": [
+                    {
+                        "text": "Read “Color” on English Wikipedia",
+                        "url": "http://en.wikipedia.org/wiki/Color?oldid=495440298"
+                    },
+                    {
+                        "text": "Read “色” on Japanese Wikipedia",
+                        "url": "http://ja.wikipedia.org/wiki/色?oldid=41877752"
+                    }
+                ],
+                "tags": [],
+                "restrictions": [],
+                "see_also": [],
+                "antonyms": [],
+                "source": [],
+                "info": [],
+                "sentences": []
+            }
+        ],
+        "attribution": {
+            "jmdict": true,
+            "jmnedict": false,
+            "dbpedia": "http://dbpedia.org/resource/Color"
+        }
+    }
+]
