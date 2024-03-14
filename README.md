@@ -1,6 +1,6 @@
 # Sample Japanese Dictionary API Documentation
 
-Tish is a simple RESTful API for sample of Japanese Dictionary.
+This is a simple RESTful API for sample of Japanese Dictionary.
 
 ## Table of Contents
 
